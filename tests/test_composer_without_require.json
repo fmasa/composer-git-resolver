@@ -1,0 +1,12 @@
+{
+  "name": "fmasa/composer-git-resolver",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "František Maša",
+      "email": "frantisekmasa1@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
