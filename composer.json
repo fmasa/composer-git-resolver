@@ -9,9 +9,14 @@
         }
     ],
 
+    "require": {
+        "php": ">=7.1"
+    },
+
     "require-dev": {
         "phpunit/phpunit": "^6.3",
-        "cpliakas/git-wrapper": "^1.7"
+        "cpliakas/git-wrapper": "^1.7",
+        "nette/utils": "^2.4"
     },
 
     "autoload": {
